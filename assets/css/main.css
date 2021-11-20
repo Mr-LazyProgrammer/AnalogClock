@@ -24,16 +24,14 @@
     width: 90px;
     background-color: black;
     top: 150px;
-    left: 60px;
-    transform: rotateZ(180deg); }
+    left: 60px; }
   .app .hour {
     transform-origin: right;
     height: 5px;
     width: 80px;
     background-color: #ffd803;
     top: 150px;
-    left: 70px;
-    transform: rotateZ(270deg); }
+    left: 70px; }
   .app .dot {
     position: absolute;
     transform-origin: center;
